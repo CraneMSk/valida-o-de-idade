@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+    color: white;
+    padding: 0;
+    margin: 0;
+    gap: 10px;
+}
+
+
+
+button{
+    border-radius: 20px;
+    background-color: gray;
+    color: white;
+    gap: 10px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    margin-top: 63px;
+}
+
+h1{
+    text-align: center;
+}
+
+.formulario{
+    text-align: center;
+    gap: 10px;
+}
+
+img{
+    height: 420px;
+    width: 681px;
+    border-radius: 20px;
+    margin-left: 350px;
+    justify-content: center;
+}
+
+input{
+    border-radius: 20px;
+}
